@@ -1,16 +1,49 @@
-### Hi there 👋
+<h2> Salut, moi c'est WatchGame 👋</h2>
 
-<!--
-**Watch-Game/watch-game** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src = 'https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47byofxd70vad0fqecsejr8xzc0eknfdhzmwahc5tp&rid=giphy.gif' alt = 'Coding picture' align='right'/>
 
-Here are some ideas to get you started:
+Bienvenue sur mon compte GitHub. Ici tu peux retrouver tous mes projets publique. Pour l'instant il n'y en a pas beaucoup mais ne t'en fait pas ca va arriver !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :computer: Domaines technologiques que j'aime
+* Flutter
+* Intelligence artificelle
+* Neuralink
+* SpaceX
+
+## Languages de programmation
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+ 
+ ## Qui suis-je ?
+ ```typescript
+interface Moi = {
+  // petite introduction pour tout le monde
+    user: WatchGame;
+    level: Novice;
+    hoobies: [
+        Développement,
+        Apprendre,
+        L'espace
+    ]
+};
+function maVille(location: string) {
+    return 'Rouen - 76000';
+}
+class Ambitions extends React.Component<Moi, maVille> {
+  FinishMyProjects()
+  LearningNewLanguages()
+  Enjoying()
+    // Et bien plus encore
+}
+ ```
+ 
+## Projets actuels
+ * En ce moment, je bosse sur 🔭 développer un **site internet** c'est encore assez secret alors je ne vous en dit pas plus. Et continuer d'apprendre ces languages de programmation 🌱 : **HTML**, **CSS**, **PHP**, **MYSQL**, **Javascript**.
+ 
+## Autre
+  - :octocat: [Mes repos](https://github.com/watch-game/repositories)
+  - Si vous avez des questions ou des demandes, n'hésitez pas à me demander 😇. Je suis à votre écoute.
+
+![Stats GitHub -> watch-game](https://github-readme-stats.vercel.app/api?username=watch-game&show_icons=true&hide=[%22issues%22])
+ 
+ 
