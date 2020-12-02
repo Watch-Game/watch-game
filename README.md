@@ -18,7 +18,7 @@ Bienvenue sur mon compte GitHub. Ici tu peux retrouver tous mes projets publique
  ```typescript
 interface Moi = {
   // petite introduction pour tout le monde
-    user: WatchGame;
+    user: PierreClee;
     level: Novice;
     hoobies: [
         Développement,
