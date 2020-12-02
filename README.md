@@ -1,4 +1,4 @@
-<h2> Salut, moi c'est WatchGame 👋</h2>
+<h2> Salut, je suis Pierre Clee 👋</h2>
 
 <img src = 'https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47byofxd70vad0fqecsejr8xzc0eknfdhzmwahc5tp&rid=giphy.gif' alt = 'Coding picture' align='right'/>
 
@@ -41,9 +41,9 @@ class Ambitions extends React.Component<Moi, maVille> {
  * En ce moment, je bosse sur 🔭 développer un **site internet** c'est encore assez secret alors je ne vous en dit pas plus. Et continuer d'apprendre ces languages de programmation 🌱 : **HTML**, **CSS**, **PHP**, **MYSQL**, **Javascript**.
  
 ## Autre
-  - :octocat: [Mes repos](https://github.com/watch-game/repositories)
+  - :octocat: [Mes repos](https://github.com/pierreclee/repositories)
   - Si vous avez des questions ou des demandes, n'hésitez pas à me demander 😇. Je suis à votre écoute.
 
-![Stats GitHub -> watch-game](https://github-readme-stats.vercel.app/api?username=watch-game&show_icons=true&hide=[%22issues%22])
+![Stats GitHub -> pierreclee](https://github-readme-stats.vercel.app/api?username=pierreclee&show_icons=true&hide=[%22issues%22])
  
  
